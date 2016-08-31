@@ -17,3 +17,29 @@ To run your program just using the following command:
 ```sh
     java YourFileName
 ```
+
+
+## Exercie
+
+Write a simple program that shows prime number from a given list
+
+something like that
+
+```java
+  private static int[] numbers = new int[5];
+
+  //in the main method
+    numbers[0] = 1;
+    numbers[1] = 2;
+    numbers[2] = 3;
+    numbers[3] = 4;
+    numbers[4] = 5;
+
+// you make a loop
+    for(...){
+        if(number[index] ??? ){
+            System.out.println("The number "+numbers[index]+" is a prime");
+        }
+    }
+
+```
