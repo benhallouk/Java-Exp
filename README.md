@@ -43,3 +43,7 @@ something like that
     }
 
 ```
+
+### float
+
+float myNumber=13f/2f;
